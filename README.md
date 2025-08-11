@@ -5,7 +5,7 @@ Includes automated dataset download, preprocessing, training, and model export f
 
 
 
-##  Features
+##  Features:
 - **Automatic dataset download** (Kuzushiji-MNIST by default)
 - **Data preprocessing** (normalization, reshaping, one-hot encoding)
 - **Deep CNN architecture** with Dropout and EarlyStopping
@@ -14,14 +14,14 @@ Includes automated dataset download, preprocessing, training, and model export f
 
 
 
-## Datasets Supported
+## Datasets Supported:
 1. **Kuzushiji-MNIST** – 10 Hiragana classes, 28×28 images  
 2. **Kuzushiji-49** – 49 Hiragana and Kanji classes, 28×28 images *(optional)*  
 3. **Kuzushiji-Kanji** – 3832 Kanji classes, 64×64 images *(optional, heavy)*  
 
 
 
-###  Clone the Repository
+###  Clone the Repository:
 ```bash
 git clone https://github.com/yourusername/kuzushiji-cnn.git
 cd kuzushiji-cnn
