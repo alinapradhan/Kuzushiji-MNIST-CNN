@@ -4,7 +4,6 @@ Convolutional Neural Network for recognizing handwritten Japanese characters fro
 Includes automated dataset download, preprocessing, training, and model export for easy experimentation.
 
 
-
 ##  Features:
 - **Automatic dataset download** (Kuzushiji-MNIST by default)
 - **Data preprocessing** (normalization, reshaping, one-hot encoding)
