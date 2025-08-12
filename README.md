@@ -10,7 +10,7 @@ Includes automated dataset download, preprocessing, training, and model export f
 - **Deep CNN architecture** with Dropout and EarlyStopping
 - **Train & Evaluate** models with a single command
 - **Model export** to .h5 format for later use
-
+  
 
 ## Datasets Supported:
 1. **Kuzushiji-MNIST** – 10 Hiragana classes, 28×28 images  
