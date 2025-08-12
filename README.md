@@ -9,7 +9,7 @@ Includes automated dataset download, preprocessing, training, and model export f
 - **Data preprocessing** (normalization, reshaping, one-hot encoding)
 - **Deep CNN architecture** with Dropout and EarlyStopping
 - **Train & Evaluate** models with a single command
-- **Model export** to `.h5` format for later use
+- **Model export** to .h5 format for later use
 
 
 
