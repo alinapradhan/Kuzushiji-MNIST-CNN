@@ -12,7 +12,6 @@ Includes automated dataset download, preprocessing, training, and model export f
 - **Model export** to .h5 format for later use
 
 
-
 ## Datasets Supported:
 1. **Kuzushiji-MNIST** – 10 Hiragana classes, 28×28 images  
 2. **Kuzushiji-49** – 49 Hiragana and Kanji classes, 28×28 images *(optional)*  
